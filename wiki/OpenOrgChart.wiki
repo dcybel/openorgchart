@@ -1,0 +1,1 @@
+OpenOrgChart is my attempt at giving back to the open source community where I have seen a great lacking in freely available web components. I decided to use OpenLayers because of my experience with the project for mapping applications and the fact that it can easily be extended for other purposes ... like viewing a large and unwieldy organization chart.
