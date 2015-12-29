@@ -1,0 +1,3 @@
+OpenOrgChart utilizes OpenLayers as a viewer for organizational charts and providing interactive functionality. This allows for ease of navigation and dynamic components to be added in by working in concert with another great open source application.
+
+This project is still in early development and is not at a mature/stable point. Currently a random tree structure is generated and can be expanded or collapsed by double clicking on a node.
